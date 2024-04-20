@@ -14,4 +14,4 @@ RUN npm install
 COPY . .
 
 # Команда для запуска приложения
-CMD ["npm", "run", "generate"]
+CMD ["npm", "run", "start"]
