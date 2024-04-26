@@ -1,5 +1,6 @@
 <template>
-  <Tutorial/>
+  <!-- <a :href="" target=":blank" class="">video</a> -->
+  <div>test nuxt</div>
 </template>
 
 <script>
